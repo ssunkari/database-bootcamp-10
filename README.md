@@ -6,6 +6,7 @@ The contents of this repo are solely used for mentoring purposes.
 + Any Mysql Client 
 ..* If you dont have one you can install DataGrip 30 day trail [Download](https://www.jetbrains.com/datagrip/promo/?gclid=CjwKCAjw1cX0BRBmEiwAy9tKHiE5FZofRZBmHw0Osypd4todpoxBObkLt2S_Y4cWLBvY0m3AcvSGshoCd1IQAvD_BwE)
 
+[logo]: https://github.com/ssunkari/database-bootcamp-10/blob/master/remotemob_header_screen_grau.png "Logo"
 ### Day 2
 + Must have GITHUB account [Singup](https://github.com/zuto).
 + VisualStudio 2019/2017 [Download](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019).
