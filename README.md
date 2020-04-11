@@ -8,7 +8,7 @@ The contents of this repo are solely used for mentoring purposes.
 
 ![ZutoAnalytics](remotemob_header_screen_grau.png?raw=true)
 ### Day 2
-+ Must have GITHUB account [Singup](https://github.com/zuto).
++ Must have GITHUB account [SignUp](https://github.com/zuto).
 + VisualStudio 2019/2017 [Download](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019).
 + Atleast .net core 2.2 runtime [Download SDK](https://dotnet.microsoft.com/download/dotnet-core).
 
