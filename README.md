@@ -38,7 +38,7 @@ We tried collaboration IDEs before. Surprisingly, this led to worse collaboratio
 + VS Live share is installed by default, if not you can install from the extensions-> Live Share [Try Demo](https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/share).This extension allows maximum of five to collaboratively work on code base without needed to push/pull to source control.
 + Zoom - Mostly works, you may need Git or source control hand over, refer GIT push/pull commands.
 
-## 10 Minute Intervals
+### 10 Minute Intervals
 In a mob session, the typist role rotates periodically. Short rotation periods keep everyone concentrated and every opinion in the mix.
 
 Try rotate every ten minutes.
