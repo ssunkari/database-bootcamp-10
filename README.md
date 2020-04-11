@@ -4,7 +4,7 @@ The contents of this repo are solely used for mentoring purposes.
 
 ### Day 1
 + Any Mysql Client 
-..* If you dont have one you can install DataGrip 30 day trail [Download](https://www.jetbrains.com/datagrip/promo/?gclid=CjwKCAjw1cX0BRBmEiwAy9tKHiE5FZofRZBmHw0Osypd4todpoxBObkLt2S_Y4cWLBvY0m3AcvSGshoCd1IQAvD_BwE)
+..* If you dont have one you can install [DataGrip](https://www.jetbrains.com/datagrip/promo/?gclid=CjwKCAjw1cX0BRBmEiwAy9tKHiE5FZofRZBmHw0Osypd4todpoxBObkLt2S_Y4cWLBvY0m3AcvSGshoCd1IQAvD_BwE) 30 day trail.
 
 ![ZutoAnalytics](remotemob_header_screen_grau.png?raw=true)
 ### Day 2
