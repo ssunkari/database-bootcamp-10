@@ -1,17 +1,34 @@
-# database-bootcamp-10
+# Database-bootcamp-10
 The contents of this repo are solely used for mentoring purposes. 
-## What we expect
 
-### Day 1
+## What you can expect
+
+## Day 1
+
+### Tooling
 + Install any Mysql Client 
 ..* If you dont have one you can install [MySqlWorkbench](https://www.mysql.com/products/workbench/) or  [DataGrip](https://www.jetbrains.com/datagrip/promo/?gclid=CjwKCAjw1cX0BRBmEiwAy9tKHiE5FZofRZBmHw0Osypd4todpoxBObkLt2S_Y4cWLBvY0m3AcvSGshoCd1IQAvD_BwE) 30 day trail.
-+ CRUD operations (SELECT, DELETE, INSERT, UPDATE, JOINS)
 
-![ZutoAnalytics](remotemob_header_screen_grau.png?raw=true)
-### Day 2
+### Preparation
++ MySql CRUD operations (SELECT, DELETE, INSERT, UPDATE, JOINS)
++ PluralSight is free this April, good source of learning material [Signup](https://www.pluralsight.com/offer/2020/free-april-month?oid=7014Q0000022aAOQAY&utm_term=&aid=701j0000002BGi1AAG&promo=&oid=&utm_source=branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Brand_E&utm_content=&gclid=CjwKCAjwhOD0BRAQEiwAK7JHmJrsSvdJ1VqrBOg0fsJqUt0GLgDNksd0wZbp_bv7GVkZnToQTpKPLhoCIdgQAvD_BwE)
+
+![RemoteMob](remotemob_header_screen_grau.png?raw=true)
+## Day 2
+
+### Tooling
 + Must have GITHUB account [SignUp](https://github.com/zuto).
-+ VisualStudio 2019/2017 [Download](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019).
-+ Atleast .net core 2.2 runtime [Download SDK](https://dotnet.microsoft.com/download/dotnet-core).
++ (C#) VisualStudio 2019/2017 [Download](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019).
++ (C#) Atleast .net core 2.2 runtime [Download SDK](https://dotnet.microsoft.com/download/dotnet-core).
++ (Javascript) VS Code [Download](https://code.visualstudio.com/download)
++ (Java IDE) [IntelliJ] (https://www.jetbrains.com/idea/promo/ultimate/?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmF42gqqmvH1COAnUfTZ3Z4H-YveHj_kgE93Jqjr62Y0IzybduD25EhoCn_IQAvD_BwE)
++ (Database IDE) [MySqlWorkbench](https://www.mysql.com/products/workbench/)
++ Database Entity Relationship Modelling [LucidChart](https://www.lucidchart.com/users/login)
++ (WhiteBoard) [Miro](https://miro.com/) 
++ (Mobbing Timer/Alert Tool) Basic Phone Alarm or [Mobster](http://mobster.cc/)
++ (GitHub) Source Control
++ Zoom & Slack for communications
+
 
 ### Mob Programming
 I couldn't find a best Live share rich Mob Timing application available online. Setup [Mobster](http://mobster.cc/) on one of the team member PC
